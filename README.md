@@ -1,3 +1,7 @@
+# My submission
+
+<img src="./public/screenshot.gif" />
+
 # Puppy Image Generator
 
 Imagine you’re new to the company and this is the first project you’ve been assigned. Due to COVID-19, morale has been down and the management team thinks it would help to have a website employees could access to help brighten their day. They’ve come up with the genius idea of allowing the employees to generate random dog and puppy pictures. A little research has shown that there is a public API that can achieve that exact goal. They’ve also found a starter template for a React project that they’ve been able to send you. Now it’s up to you to set up a proper integration between the two.
